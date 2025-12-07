@@ -1,7 +1,7 @@
 replicaCount: 2
 
 image:
-  repository: your-dockerhub-username/healthletic-backend
+  repository: muskanshah27/healthletic-backend
   tag: "latest"
   pullPolicy: Always
 
